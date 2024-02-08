@@ -1,0 +1,6 @@
+Needed?
+
+1. Step tracking
+2. Map tracking
+3. Activity manual tracking with start and stop
+4. Custom acitvities
